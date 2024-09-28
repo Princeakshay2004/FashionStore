@@ -1,0 +1,9 @@
+.navbarbg{
+	background-color: #DFF5FF !important;
+}
+.cardbg{
+	background-color: #DFF5FF;
+}
+body::-webkit-scrollbar {
+	display: none;
+}
